@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://vercel.com/yorkefy/netease-cloud-music-api/AsRWTGSM5UhKtQ2BUp3pxjoFJnY5:match*"
+    }
+  ]
+}
